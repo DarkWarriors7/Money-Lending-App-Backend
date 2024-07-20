@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 const PORT = process.env.PORT || 3000;
 
-app.use("/api/auth",auth);
+app.use("/api/auth",auth); 
 app.use("/api/userController",user);
 
 app.listen(PORT, ()=>{
