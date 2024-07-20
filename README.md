@@ -1,11 +1,11 @@
 # Money-Lending-App-Backend
-# /signup Api
+# /signup api
 ![WhatsApp Image 2024-07-20 at 14 39 14_8998232a](https://github.com/user-attachments/assets/cb7384ee-12d9-4a89-8071-9ff9c31f2f0b)
 
-# /login Api
+# /login api
 ![WhatsApp Image 2024-07-20 at 14 39 59_d8eb28f0](https://github.com/user-attachments/assets/4846cfe9-06d3-4224-b28d-74be58dd9646)
 
-# /User api
+# /user api
 
 ![WhatsApp Image 2024-07-20 at 14 40 50_e0daf59b](https://github.com/user-attachments/assets/9f7c66e0-cc6d-4825-a999-313aa6b68090)
 
